@@ -1,0 +1,5 @@
+{
+  "name": "AI Language Translator",
+  "description": "A sleek and modern web application that leverages the Gemini API to provide fast and accurate translations between a wide variety of languages. Users can input text, select a target language, and receive the translation in real-time.",
+  "requestFramePermissions": []
+}
